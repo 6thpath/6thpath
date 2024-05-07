@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![6thpath's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=6thpath&show_icons=true&show=reviews,discussions_started,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
+[![6thpath's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=6thpath&show_icons=true\&rank_icon=github&show=reviews,discussions_started,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6thpath)
 
 <!--
 **6thpath/6thpath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
