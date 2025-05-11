@@ -1,14 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm a developer 🧑‍💻
 
 ---
 
-<div align='center'>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6thpath&theme=default" width="750">
-</div>
+## 🛠 Most Used
 
-----
-
-## Most Used
 ![image](https://img.shields.io/badge/languages:-096B68?style=for-the-badge)
 ![image](https://img.shields.io/badge/javascript-183B4E?logo=javascript&style=for-the-badge)
 ![image](https://img.shields.io/badge/typescript-183B4E?logo=typescript&style=for-the-badge)
@@ -36,3 +31,22 @@
 ![image](https://img.shields.io/badge/github-183B4E?logo=github&style=for-the-badge)
 ![image](https://img.shields.io/badge/cloudflare-183B4E?logo=cloudflare&style=for-the-badge)
 ![image](https://img.shields.io/badge/vercel-183B4E?logo=vercel&style=for-the-badge)
+
+---
+
+## 📊 Stats
+
+<div align='center'>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6thpath&theme=default" width="750">
+</div>
+
+---
+
+## 📫 How to reach me
+
+<a href="mailto:tienphat1501@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email-183B4E?logo=gmail&style=for-the-badge" />
+</a>
+<a href="https://linkedin.com/in/phatmai" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-183B4E?logo=linkedin&style=for-the-badge" />
+</a>
