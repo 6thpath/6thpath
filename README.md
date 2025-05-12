@@ -26,6 +26,7 @@
 ![image](https://img.shields.io/badge/docker-183B4E?logo=docker&style=for-the-badge)
 ![image](https://img.shields.io/badge/figma-183B4E?logo=figma&style=for-the-badge)
 ![image](https://img.shields.io/badge/canva-183B4E?logo=canva&style=for-the-badge)
+![image](https://img.shields.io/badge/iterm2-183B4E?logo=iterm2&style=for-the-badge)
 
 ![image](https://img.shields.io/badge/others:-096B68?style=for-the-badge)
 ![image](https://img.shields.io/badge/github-183B4E?logo=github&style=for-the-badge)
