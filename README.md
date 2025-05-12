@@ -21,6 +21,7 @@
 ![image](https://img.shields.io/badge/tailwind%20css-183B4E?logo=tailwindcss&style=for-the-badge)
 ![image](https://img.shields.io/badge/react%20hook%20form-183B4E?logo=reacthookform&style=for-the-badge)
 ![image](https://img.shields.io/badge/vue-183B4E?logo=vue.js&style=for-the-badge)
+![image](https://img.shields.io/badge/others...-27548A?style=for-the-badge)
 
 ![image](https://img.shields.io/badge/tools:-096B68?style=for-the-badge)
 ![image](https://img.shields.io/badge/git-183B4E?logo=git&style=for-the-badge)
@@ -33,6 +34,7 @@
 ![image](https://img.shields.io/badge/github-183B4E?logo=github&style=for-the-badge)
 ![image](https://img.shields.io/badge/cloudflare-183B4E?logo=cloudflare&style=for-the-badge)
 ![image](https://img.shields.io/badge/vercel-183B4E?logo=vercel&style=for-the-badge)
+![image](https://img.shields.io/badge/google%20cloud-183B4E?logo=googlecloud&style=for-the-badge)
 
 ---
 
