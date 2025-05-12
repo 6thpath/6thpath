@@ -17,6 +17,7 @@
 ![image](https://img.shields.io/badge/webcomponents-183B4E?logo=webcomponentsdotorg&style=for-the-badge)
 ![image](https://img.shields.io/badge/next.js-183B4E?logo=next.js&style=for-the-badge)
 ![image](https://img.shields.io/badge/remix-183B4E?logo=remix&style=for-the-badge)
+![image](https://img.shields.io/badge/vite-183B4E?logo=vite&style=for-the-badge)
 ![image](https://img.shields.io/badge/tailwind%20css-183B4E?logo=tailwindcss&style=for-the-badge)
 ![image](https://img.shields.io/badge/react%20hook%20form-183B4E?logo=reacthookform&style=for-the-badge)
 ![image](https://img.shields.io/badge/vue-183B4E?logo=vue.js&style=for-the-badge)
